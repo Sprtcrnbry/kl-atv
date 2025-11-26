@@ -3,4 +3,6 @@ Key Layout Custom/Universal Remote Bluetooth untuk Android TV, tested di B860H V
 
 X1 2021 PCB Hijau: [Vendor_00c4_Product_7a44.kl](https://github.com/Sprtcrnbry/kl-atv/blob/main/Vendor_00c4_Product_7a44.kl)
 
+Note: Remap GUIDE ke SETTINGS
+
 Masukkan file di /vendor/usr/keylayout/ (butuh root)
