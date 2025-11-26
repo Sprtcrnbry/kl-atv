@@ -1,0 +1,71 @@
+key 1       BACK
+key 2       1
+key 3       2
+key 4       3
+key 5       4
+key 6       5
+key 7       6
+key 8       7
+key 9       8
+key 10      9
+key 11      0
+key 15      BACK
+key 158     BACK
+key 58      SOFT_RIGHT
+key 107     ENDCALL
+
+key 127     SEARCH
+key 217     ASSIST
+key 228     POUND
+key 227     STAR
+key 231     CALL
+
+key 116     POWER
+
+key 115     VOLUME_UP
+key 114     VOLUME_DOWN
+
+key 240     ALL_APPS
+key 362     GUIDE
+
+key 402     CHANNEL_UP
+key 403     CHANNEL_DOWN
+
+key 172     HOME
+
+key 28      DPAD_CENTER
+key 103     DPAD_UP
+key 105     DPAD_LEFT
+key 106     DPAD_RIGHT
+key 108     DPAD_DOWN
+
+key 165     MEDIA_PREVIOUS
+key 167     MEDIA_RECORD
+key 164     MEDIA_PLAY_PAUSE
+key 163     MEDIA_NEXT
+
+key 79      1
+key 145     1
+key 80      2
+key 146     2
+key 81      3
+key 147     3
+key 75      4
+key 148     4
+key 76      5
+key 149     5
+key 77      6
+key 150     6
+key 71      7
+key 151     7
+key 72      8
+key 152     8
+key 73      9
+key 153     9
+key 82      0
+key 144     0
+
+key 186     PROG_RED
+key 187     PROG_GREEN
+key 188     PROG_YELLOW
+key 189     PROG_BLUE
